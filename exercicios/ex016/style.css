@@ -1,0 +1,7 @@
+* { /*configs globais das css*/
+    height: 100%;
+}
+
+body {
+    background-color: aqua; 
+}

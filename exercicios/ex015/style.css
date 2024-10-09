@@ -1,0 +1,11 @@
+@charset "UTF-8";
+
+body{
+    background-color: rgb(153, 174, 177);
+}
+h1{
+    color: firebrick;
+}
+h2{
+    color: slateblue;
+}
