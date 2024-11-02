@@ -1,0 +1,23 @@
+body {
+    background-image: url('../imagens/wallpaper003.jpg');
+    height: 100vh;
+    background-repeat: no-repeat;
+    background-size: 100vh;
+    background-position: center center;
+    
+}
+div#q1 {
+    background-position: left top;
+}
+
+div#q2 {
+    background-position: left center;
+}
+
+div#q3 { 
+    background-position: right bottom;    
+}
+
+div#q4 {
+    background-position: center center;
+}
